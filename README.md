@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ##Deployment
 
-it can be doe anywhere.it is a simple project
+it can be doe anywhere.it is  a simple project
 
 ##How to contribute
 
