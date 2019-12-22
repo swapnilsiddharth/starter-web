@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ##Introduction
 
+adding text for rebase example from master branch
+
 ## Purpose
 
 Sample website with plenty of files for demos
