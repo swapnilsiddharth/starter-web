@@ -14,6 +14,8 @@ it can be doe anywhere.it is a simple project
 
 ##How to contribute
 
+Please fork and then issue pull request for review
+
 ##Copyright
 
 git training 2019
