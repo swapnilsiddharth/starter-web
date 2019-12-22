@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ##Introduction
 
-adding text for rebase example from master branch
+adding text for rebase example from master branch then morechanges from myfeature branch
 
 ## Purpose
 
