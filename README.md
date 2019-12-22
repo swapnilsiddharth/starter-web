@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 it can be doe anywhere.it is a simple project
 
 ##How to contribute
+
+##Copyright
+
+git training 2019
